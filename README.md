@@ -26,18 +26,19 @@
       <li>file1.txt</li>
       <li>file2.txt</li>
      <li>README.md</li>
+      </ul>
   </li>
    
   
 </ul>
   <h1>contributing</h1>
- 
-  <h1>contributing</h1>
-  <div style="background-color=gray">
+ <div style="background-color=coral">
   Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change
   
   <p>Please make sure to update tests as appropriate</p>
 </div>
+  
+ 
 <h1>License</h1>
 <a href="https://github.com/emansoliman/EmanRedae-NewRepo.git">This our project link</a> 
   
