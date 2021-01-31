@@ -18,8 +18,7 @@
       <li>file2.txt</li>
      <li>README.md</li>
   </li>
-      
-      <li>dev branch
+ <li>dev branch
     <ul>
     <EmanRedaSoliman.txt>
       <li>EmanRedaSoliman.txt</li>
@@ -27,8 +26,15 @@
       <li>file2.txt</li>
      <li>README.md</li>
   </li>
+   
   
 </ul>
+  <h1>contributing</h1>
+  <div style="background-color=gray">
+  Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change
+  
+  <p>Please make sure to update tests as appropriate</p>
+</div>
   <h1>contributing</h1>
   <div style="background-color=gray">
   Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change
