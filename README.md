@@ -8,7 +8,7 @@
     <li>git tag tag-name</li>
     <li>git marge brange-name</li>
   <h1>contributing</h1>
-  <div style="background-color:gray">
+  <div style="background-color=gray">
   Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change
   
   <p>Please make sure to update tests as appropriate</p>
