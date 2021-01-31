@@ -17,18 +17,15 @@
       <li>file1.txt</li>
       <li>file2.txt</li>
      <li>README.md</li>
-    
- 
-  
-<li>dev branch
-  <ul>
-    <li>EmanRedaSoliman.txt</li>
+  </li>
+      
+      <li>dev branch
+    <ul>
+    <EmanRedaSoliman.txt>
       <li>EmanRedaSoliman.txt</li>
       <li>file1.txt</li>
       <li>file2.txt</li>
-      <li>README.md</li>
-  
-  
+     <li>README.md</li>
   </li>
   
 </ul>
