@@ -7,6 +7,12 @@
     <li>git branch brange-name</li>
     <li>git tag tag-name</li>
     <li>git marge brange-name</li>
-      
- 
+  <h1>conttributing</h1>
+  
+  Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change
+  
+  <p>Please make sure to update tests as appropriate</p>
+
+<h1>License</h1>
+<a href=" https://github.com/emansoliman/EmanRedae-NewRepo.git">This our project link </a> 
   
