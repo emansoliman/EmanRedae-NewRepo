@@ -33,7 +33,7 @@
 </ul>
   <h1>contributing</h1>
  <div style="background-color=coral">
-  Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change
+  Pull requests are Welcome.For major changes,Please open an issue first to discuss what you would like to change.
   
   <p>Please make sure to update tests as appropriate</p>
 </div>
